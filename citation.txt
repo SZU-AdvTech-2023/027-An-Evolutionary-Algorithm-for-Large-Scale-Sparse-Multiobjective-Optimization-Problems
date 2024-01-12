@@ -1,0 +1,10 @@
+@article{REPO027,
+    author = "Tian, Ye and Zhang, Xingyi and Wang, Chao and Jin, Yaochu",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    number = "2",
+    pages = "380--393",
+    publisher = "IEEE",
+    title = "{An Evolutionary Algorithm for Large-Scale Sparse Multiobjective Optimization Problems}",
+    volume = "24",
+    year = "2019"
+}
